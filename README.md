@@ -1,3 +1,3 @@
 # LLMOps Trading Bot
 
-![alt text](RAG_ARCHITECTURE.png)
+![alt text](images/RAG_ARCHITECTURE.png)
