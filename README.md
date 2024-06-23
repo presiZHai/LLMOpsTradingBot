@@ -1,4 +1,5 @@
 # LLMOps Trading Bot
 
-Project Architecture 
+### Project Architecture 
+
 ![alt text](images/RAG_ARCHITECTURE.png)
