@@ -1,6 +1,7 @@
 langchain
 langchain-openai
 langchain-astradb
+langchain-community
 datasets
 pypdf
 python-dotenv
